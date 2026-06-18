@@ -1,5 +1,5 @@
 # Rate-My-Professors-Concensus-Generator
-A desktop application that looks up a professor on Rate My Professors, scrapes their reviews, and uses a text analysis model to generate a concise consensus paragraph. It is a first step towards my goal of building a website that allows users to get a Gemini concensus of a course or professor from RMP.
+A desktop application that looks up a professor on Rate My Professors, scrapes their reviews, and uses Google Gemini to generate a concise consensus paragraph. It is a first step towards my goal of building a website that allows users to get a Gemini concensus of a course or professor from RMP.
 
 **Installation Instructions (exe):**
 1. **Get the .exe file**
